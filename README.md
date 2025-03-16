@@ -33,15 +33,15 @@ English
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 **BOXVIDRA PROJECT** Created By :
-* `AGENT 404 (The Owner)`
-* `Ms.Edryll (The Sec-Owner)`
-* `AGENT 301` `AGENT 202` `AGENT 17`
+* `AGENT X-404 (The Owner)`
+* `AGENT W-404 (The Sec-Owner)`
+* `AGENT S-404` `AGENT 403` `AGENT 301`
 
 
 This project contains `Five` `Systems/Emulators` : 
 * `Boxvidra Emulator Native`
 * `Boxvidra Emulator Proot`
-* `Vionex` `Aionex` `Leonx3`
+* `Nexus` `R-Inex` `X-S UI`
 
 # Boxvidra Emulator Native `(v1.1.0)` And Boxvidra Emulator Proot :
 
@@ -325,6 +325,7 @@ The general idea of ​​Boxvidra Emulator Native and Proot is to emulate the c
 
 
 ## Big Thanks To :
+* `Narmin`
 * `Michael De Mani`
 * `James Brono`
 * `Mark Melbert`
