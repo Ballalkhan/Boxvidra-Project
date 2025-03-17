@@ -325,7 +325,7 @@ The general idea of ​​Boxvidra Emulator Native and Proot is to emulate the c
 
 
 ## Big Thanks To :
-* `Narmin`
+* `Sadem`
 * `Michael De Mani`
 * `James Brono`
 * `Mark Melbert`
