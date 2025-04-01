@@ -9,6 +9,9 @@ English
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-cn.md">中国人 </a>
 
+* `A public message for some racist kid (Pc Backup)`
+**Dont try to be a pathetic, Because you already a pathetic, And dont interfere in politics, because your mind is defective and you will not be able to bear that**
+
 * `Our Social Media Accounts`
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
