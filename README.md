@@ -65,7 +65,7 @@ To install either the **Boxvidra Emulator Native** or **Boxvidra Emulator Proot*
 
 * `Boxvidra Emulator Native` :
 ```bash
-Not available at the moment
+'Not available at the moment'
 ```
 
 * `Boxvidra Emulator Proot` :
